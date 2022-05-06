@@ -1,5 +1,10 @@
 # Cpf-validation-angular
-Formulario de Cpf Angular Com mascara... precisa instalar $ npm install --save ngx-mask
+Formulario de Cpf Angular Com mascara... 
+
+precisa instalar 
+$ npm install --save ngx-mask
+
+
 a mascara impede que vc adicione mais que 14 digitos.
 nao deixa você digitar letras ou caracteres especiais.
 
